@@ -1,0 +1,8 @@
+.DS_Store
+/build/
+.idea
+/target/
+/out/
+*.iml
+/logs/
+/test-output/
